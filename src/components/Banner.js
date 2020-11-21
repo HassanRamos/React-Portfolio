@@ -8,9 +8,9 @@ import {
 } from "react-icons/fa";
 const Banner = () => {
   const [state] = React.useState({
-    title: "I am Jonathan Doe",
+    title: "I am JRamos Hassan",
     text:
-      "i,m Jonathan, professional web developer with long time \
+      "i,m Ramos, professional web developer with long time \
     experience in this field​",
     image: "/images/man-01.png",
   });
